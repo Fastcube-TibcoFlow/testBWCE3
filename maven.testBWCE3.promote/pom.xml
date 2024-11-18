@@ -19,11 +19,11 @@
 
 
 	<dependencies>
-	<!-- <dependency> -->
-	<!-- <groupId>com.fastcube.tibco.RNL.BWCE-TEST.testBWCE3</groupId> -->
-	<!-- <artifactId>bw.app.application</artifactId> -->
-	<!-- <version>${project.version}</version> -->
-	<!-- <type>ear</type> -->
-	<!-- </dependency> -->
-	</dependencies>
+            <dependency>
+                <groupId>com.fastcube.tibco.RNL.BWCE-TEST.testBWCE3</groupId>
+                <artifactId>bw.mc-testBWCE3.application</artifactId>
+                <version>${project.version}</version>
+                <type>ear</type>
+            </dependency>
+        </dependencies>
 </project>
